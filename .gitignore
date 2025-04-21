@@ -10,6 +10,13 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# Assets/10 Fantasy Medieval Ambient Tracks 内の全ファイルを無視
+/Assets/10 Fantasy Medieval Ambient Tracks/*
+
+# ただし以下の2つはGitに含める
+!/Assets/10 Fantasy Medieval Ambient Tracks/2. Winds of Valor.wav
+!/Assets/10 Fantasy Medieval Ambient Tracks/2. Winds of Valor.wav.meta
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
