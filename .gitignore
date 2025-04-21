@@ -11,11 +11,11 @@
 /[Uu]ser[Ss]ettings/
 
 # Tracksフォルダ内の全ファイルを無視
-Assets/10 Fantasy Medieval Ambient Tracks/Tracks/*
+Assets/10 Fantasy Medieval Ambient Tracks/Loops/*
 
 # ただしこの2つだけは追跡対象に含める
-!Assets/10 Fantasy Medieval Ambient Tracks/Tracks/2. Winds of Valor.wav
-!Assets/10 Fantasy Medieval Ambient Tracks/Tracks/2. Winds of Valor.wav.meta
+!Assets/10 Fantasy Medieval Ambient Tracks/Loops/1. Moonspire.wav
+!Assets/10 Fantasy Medieval Ambient Tracks/Loops/1. Moonspire.wav.meta
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
